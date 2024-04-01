@@ -1,4 +1,4 @@
-Create a new OAuth registraction to access github API, otherwise max 50 requests/hr
+Create a new OAuth registration to access GitHub API, otherwise max 50 requests/hr
 https://github.com/settings/applications/new
 Generate the secret access key to be used later for AJAX calls
 
